@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main ( )
+{
+  int a = 10 ;
+  int b = a * 20 ;
+  int 2c ;
+  printf ( "%d" , b ) ;
+  return 0 ;
+}

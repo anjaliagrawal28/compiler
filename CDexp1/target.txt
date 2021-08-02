@@ -1,0 +1,33 @@
+#include<stdio.h> is a macro
+int is a keyword
+main is a keyword
+( is a special symbol
+) is a special symbol
+{ is a special symbol
+int is a keyword
+a is a Variable
+= is a operator
+10 is a integer
+; is a special symbol
+int is a keyword
+b is a Variable
+= is a operator
+a is a Variable
+* is a operator
+20 is a integer
+; is a special symbol
+int is a keyword
+Lexical error encountered
+; is a special symbol
+printf is a keyword
+( is a special symbol
+"%d" is a format specifer
+, is a special symbol
+b is a Variable
+) is a special symbol
+; is a special symbol
+return is a keyword
+0 is a integer
+; is a special symbol
+} is a special symbol
+Total number of lines in code 9
